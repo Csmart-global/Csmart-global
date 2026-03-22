@@ -9,7 +9,7 @@ Traducción inteligente y productividad. Optimizado para lectores de pantalla (*
 | :--- | :--- |
 | **Menú Principal (Centro de Control)** | `Ctrl + Shift + T` |
 | **Lista de Idiomas (Seleccionar)** | `Ctrl + Y` |
-| **Buscador de Idiomas (Escuchar lista)** | `Ctrl + 7` |
+| **Buscador por Códigos (fr, it, de, etc.)** | `Ctrl + 7` |
 | **Traducir Inglés <-> Español** | `Ctrl + 1` / `Ctrl + 2` |
 | **Traducir Portugués <-> Español** | `Ctrl + 3` / `Ctrl + 4` |
 | **Traducir Turco <-> Español** | `Ctrl + 5` / `Ctrl + 6` |
@@ -19,9 +19,9 @@ Traducción inteligente y productividad. Optimizado para lectores de pantalla (*
 ---
 
 ## 📦 Novedades de esta Versión
-* **Traducción al Turco:** Añadido soporte bidireccional (Español <-> Turco).
-* **Selector Global:** Con `Ctrl + Y` accedes a todos los idiomas soportados.
-* **Buscador Inteligente:** Con `Ctrl + 7` puedes explorar la lista por voz.
+* **Buscador Rápido:** Con `Ctrl + 7` introduce el código del idioma (`en`, `fr`, `tr`, etc.) para cambiar al instante.
+* **Traducción al Turco:** Soporte bidireccional (Español <-> Turco).
+* **Selector Global:** Con `Ctrl + Y` accedes a la lista completa de idiomas.
 * **Sistema de Auto-Update:** El programa se mantiene al día solo desde GitHub.
 
 ---
